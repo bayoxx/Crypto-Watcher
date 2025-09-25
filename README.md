@@ -2,7 +2,7 @@
 
 A **crypto price monitoring and alerting system** built with **Make.com** and enriched with visualisation using **Lovable UI**.  
 
-![Workflow Demo](assets/demo.gif)  
+![Workflow Demo](crypto_watch.gif)  
 
 ---
 
@@ -17,7 +17,7 @@ Crypto Watcher automates monitoring and alerting, ensuring that users are notifi
 
 - Monitor cryptocurrency prices and key market metrics automatically.  
 - Deliver actionable alerts across multiple channels.  
-- (Optional) Log data and visualize results in a dashboard.  
+- (Optional) Log data and visualise results in a dashboard.  
 
 ---
 
