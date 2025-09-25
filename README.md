@@ -17,7 +17,7 @@ Crypto Watcher automates monitoring and alerting, ensuring that users are notifi
 
 - Monitor cryptocurrency prices and key market metrics automatically.  
 - Deliver actionable alerts across multiple channels.  
-- (Optional) Log data and visualise results in a dashboard.  
+- Log data and visualise results in a dashboard.  
 
 ---
 
@@ -27,7 +27,7 @@ Crypto Watcher automates monitoring and alerting, ensuring that users are notifi
 - **Live Data Retrieval** → Pulls crypto data from [CoinGecko API](https://www.coingecko.com/en/api).  
 - **Custom Alert Logic** → Price swings, trending/newly listed coins.  
 - **Notifications** → Telegram, Slack, Email, SMS.  
-- **(Optional) Visualization** → Google Sheets logging & Lovable UI dashboard.  
+- **Visualization** → Google Sheets logging & Lovable UI dashboard.  
 
 ---
 
@@ -36,8 +36,8 @@ Crypto Watcher automates monitoring and alerting, ensuring that users are notifi
 - **Make.com** → Workflow automation.  
 - **CoinGecko API** → Market data source.  
 - **Telegram / Slack / Email / SMS** → Notification channels.  
-- **Google Sheets (optional)** → Trend logging.  
-- **Lovable UI (optional)** → Real-time dashboard.  
+- **Google Sheets** → Trend logging.  
+- **Lovable UI** → Real-time dashboard.  
 
 ---
 
@@ -47,8 +47,8 @@ Crypto Watcher automates monitoring and alerting, ensuring that users are notifi
 2. **API Call** → Retrieves enriched crypto data.  
 3. **Logic Module** → Applies thresholds for alerts.  
 4. **Notifier** → Sends alerts to configured channels.  
-5. **(Optional)** Data logged into Google Sheets.  
-6. **(Optional)** Lovable UI displays live data.  
+5. **Database** Data logged into Google Sheets.  
+6. **Dashboard** Lovable UI displays live data.  
 
 ---
 
@@ -56,7 +56,7 @@ Crypto Watcher automates monitoring and alerting, ensuring that users are notifi
 
 | Workflow (Make.com) | Alerts (Telegram) | Dashboard (Lovable UI) |
 |---------------------|--------------------|-------------------------|
-| ![](assets/screenshots/scenario.png) | ![](assets/screenshots/alerts-demo.png) | ![](assets/screenshots/dashboard.png) |  
+| ![](make_interface.png) | ![](telegram_interface.png) | ![](lovable_interface.png) |  
 
 ---
 
@@ -64,7 +64,7 @@ Crypto Watcher automates monitoring and alerting, ensuring that users are notifi
 
 - [Setup Guide](docs/setup.md)  
 - [Workflow Overview](docs/workflow-overview.md)  
-- [UI Guide](docs/ui-guide.md) *(optional)*  
+-  
 
 ---
 
