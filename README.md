@@ -27,7 +27,7 @@ Crypto Watcher automates monitoring and alerting, ensuring that users are notifi
 - **Live Data Retrieval** → Pulls crypto data from [CoinGecko API](https://www.coingecko.com/en/api).  
 - **Custom Alert Logic** → Price swings, trending/newly listed coins.  
 - **Notifications** → Telegram, Slack, Email, SMS.  
-- **Visualization** → Google Sheets logging & Lovable UI dashboard.  
+- **Visualisation** → Google Sheets logging & Lovable UI dashboard.  
 
 ---
 
@@ -82,6 +82,6 @@ Crypto Watcher automates monitoring and alerting, ensuring that users are notifi
 - Designed automated workflows using **Make.com**.  
 - Integrated external **APIs** into automation pipelines.  
 - Implemented **multi-channel notifications**.  
-- Experimented with **no-code UI dashboards** for visualization.  
+- Experimented with **no-code UI dashboards** for visualisation.  
 
 ---
