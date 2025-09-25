@@ -2,7 +2,7 @@
 
 A **crypto price monitoring and alerting system** built with **Make.com** and enriched with visualisation using **Lovable UI**.  
 
-![Workflow Demo](crypto_watch.gif)  
+![Workflow Demo](crypto_alert.gif)  
 
 ---
 
