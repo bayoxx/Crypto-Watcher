@@ -1,6 +1,6 @@
 # 🚀 Crypto Watcher  
 
-A **crypto price monitoring and alerting system** built with **Make.com** and enriched with optional visualization using **Lovable UI**.  
+A **crypto price monitoring and alerting system** built with **Make.com** and enriched with visualisation using **Lovable UI**.  
 
 ![Workflow Demo](assets/demo.gif)  
 
