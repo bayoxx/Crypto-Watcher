@@ -64,7 +64,6 @@ Crypto Watcher automates monitoring and alerting, ensuring that users are notifi
 
 - [Setup Guide](docs/setup.md)  
 - [Workflow Overview](docs/workflow-overview.md)  
--  
 
 ---
 
